@@ -7,7 +7,8 @@ Explore how to build Python Code in Oracle Autonomous Database.
 
 
 ## About this workshop 
-       ion engine using Oracle Graph on a real-world dataset residing in Oracle Autonomous Database. 
+
+This workshop walks you through the steps to build Python Code residing in Oracle Autonomous Database.
 
 ## Workshop Details
 
