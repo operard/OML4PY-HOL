@@ -20,6 +20,8 @@ To demonstrate the python functionalities, the workshop has been divided in diff
 <a href="https://github.com/operard/OML4PY-HOL/blob/main/doc/20210729_DevRel_Python_natwest_HOL2_steps.pdf">here</a>
 </p>
 
+![Step By Step](images/lab2_journey.png)
+
 ### Step 1: Get started with OML4Py on Oracle Autonomous Database.
 
 
