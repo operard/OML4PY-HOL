@@ -10,31 +10,33 @@ Explore how to build Python Code in Oracle Autonomous Database.
 
 This workshop walks you through the steps to build Python Code residing in Oracle Autonomous Database.
 
+The tutorial of LiveLabs can be found <a href="https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/workshop-attendee-2?p210_workshop_id=786&p210_type=3&session=106708031555726">here</a>.
+
 ## Workshop Details
 
 To demonstrate the python functionalities, the workshop has been divided in different steps.
 
 <p>The manual to execute the workshop step by step is available
-<a href="https://github.com/operard/OML4PY-HOL/blob/main/doc/WORKSHOP_MLGraph.pdf">here</a>
+<a href="https://github.com/operard/OML4PY-HOL/blob/main/doc/20210729_DevRel_Python_natwest_HOL2_steps.pdf">here</a>
 </p>
 
-### Step 1: Convert from Relational Data Model to Property Graph Data Model.
+### Step 1: Get started with OML4Py on Oracle Autonomous Database.
 
 
 
-### Step 2: Use Open Source Apache Zeppelin with PGX Interpreter and Groovy.
+### Step 2: Select and manipulate data using the transparency layer.
 
 
-### Step 3: Use Python to access to Oracle Graph “PyPGX”.
+### Step 3: Use in-database algorithms and models.
 
 
-### Step 4: Apply Queries to detect Ring Patterns in the Graph Data Model
+### Step 4: Use Datastores to store Python objects.
 
 
-### Step 5: Connect Third-Party Library Vis.JS from Python.
+### Step 5: Run user-defined functions using Embedded Python Execution.
 
 
-### Step 6: Use PGX Visualizer.
+### Step 6: Use AutoML.
 
 
 ## Conclusions
